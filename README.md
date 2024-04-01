@@ -5,7 +5,7 @@ Inmaopalace Mod 是一个Minecraft-1.16.5-Forge版本的模组。
 1.它添加了一把很强大的魔法剑“ロリの星明かりの魔法の剣！”。
 
 ## 下载链接
-1.下载 [Inmaopalace Mod](https://pan.baidu.com/s/1r_naIIaq0sYdE_wQyclYCA)
+1.下载 [Inmaopalace Mod](https://pan.baidu.com/s/1r_naIIaq0sYdE_wQyclYCA#list/path=%2F)
 
 ## 安装
 要安装此模组，你需要先安装 Minecraft Forge 1.16.5。安装后，将 Inmaopalace Mod 的 `.jar` 文件放入你的 `mods` 文件夹内。
